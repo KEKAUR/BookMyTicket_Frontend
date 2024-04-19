@@ -1,0 +1,39 @@
+[33m50424c9[m[33m ([m[1;36mHEAD -> [m[1;32mshruti[m[33m, [m[1;31morigin/shruti[m[33m)[m HEAD@{0}: reset: moving to HEAD@{1}
+[33m50424c9[m[33m ([m[1;36mHEAD -> [m[1;32mshruti[m[33m, [m[1;31morigin/shruti[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m50424c9[m[33m ([m[1;36mHEAD -> [m[1;32mshruti[m[33m, [m[1;31morigin/shruti[m[33m)[m HEAD@{2}: reset: moving to HEAD@{1}
+[33m6767aee[m HEAD@{3}: reset: moving to HEAD~1
+[33m50424c9[m[33m ([m[1;36mHEAD -> [m[1;32mshruti[m[33m, [m[1;31morigin/shruti[m[33m)[m HEAD@{4}: checkout: moving from main to shruti
+[33m0180062[m[33m ([m[1;32mmain[m[33m)[m HEAD@{5}: commit: changes
+[33m34d9535[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: pull origin main: Fast-forward
+[33mca60461[m HEAD@{7}: commit: api_url
+[33m6767aee[m HEAD@{8}: pull origin main: Fast-forward
+[33m1aae8dc[m HEAD@{9}: checkout: moving from shruti to main
+[33m50424c9[m[33m ([m[1;36mHEAD -> [m[1;32mshruti[m[33m, [m[1;31morigin/shruti[m[33m)[m HEAD@{10}: commit: api_url
+[33m6767aee[m HEAD@{11}: pull origin main: Fast-forward
+[33m91c80b0[m HEAD@{12}: pull origin main: Fast-forward
+[33maed857c[m HEAD@{13}: pull origin main: Fast-forward
+[33m431273e[m HEAD@{14}: pull origin main: Fast-forward
+[33m8cf83a0[m HEAD@{15}: reset: moving to HEAD
+[33m8cf83a0[m HEAD@{16}: commit: updated carousel
+[33me4d73f6[m HEAD@{17}: commit: updated carousel
+[33md9bb6e5[m HEAD@{18}: pull origin main: Fast-forward
+[33mf12c61e[m HEAD@{19}: commit: payment
+[33mbfaf062[m HEAD@{20}: checkout: moving from shruti to shruti
+[33mbfaf062[m HEAD@{21}: checkout: moving from main to shruti
+[33m1aae8dc[m HEAD@{22}: pull origin main: Fast-forward
+[33md42f20d[m HEAD@{23}: checkout: moving from shruti to main
+[33mbfaf062[m HEAD@{24}: pull origin shruti: Merge made by the 'ort' strategy.
+[33m70b90ce[m HEAD@{25}: commit: payment
+[33mff18813[m HEAD@{26}: commit: landing page api integrated
+[33m3f38124[m HEAD@{27}: checkout: moving from shruti to shruti
+[33m3f38124[m HEAD@{28}: commit: margins updated
+[33mf4c37cf[m HEAD@{29}: commit: location updated
+[33m74287e9[m HEAD@{30}: pull origin main: Fast-forward
+[33m617a2a9[m HEAD@{31}: pull --tags origin shruti: Fast-forward
+[33mfa22d33[m HEAD@{32}: commit: header updated
+[33md42f20d[m HEAD@{33}: checkout: moving from main to shruti
+[33md42f20d[m HEAD@{34}: checkout: moving from shruti to main
+[33md42f20d[m HEAD@{35}: checkout: moving from main to shruti
+[33md42f20d[m HEAD@{36}: pull --tags origin main: Fast-forward
+[33m655ddaf[m HEAD@{37}: checkout: moving from main to main
+[33m655ddaf[m HEAD@{38}: clone: from https://github.com/Akirmani0712/Movie_Ticket_Booking_Portal.git
